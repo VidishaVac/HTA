@@ -8,7 +8,8 @@ This is a space where I will add my current work in **healthcare data analytics*
 - Publicly available data files used for the analysis done in this space, e.g. dataset_diabetes
 - R code snippets for readers to easily view and use for quick data analyses, e.g. cleanDiabetic_data.R
 - Quarto and HTML files containing fully developed analytics used in posts, e.g. [**this post**](https://rworks.dev/posts/healthcare-part1/)
-- *Note:* **more_RStudio** contains other non-healthcare work in RStudio!
+
+_**Note:**_ **more_RStudio** contains other non-healthcare experimental work in RStudio!
 
 ## How to use this Repo
 
