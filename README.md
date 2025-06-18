@@ -11,5 +11,5 @@ Meet me on [LinkedIn](https://www.linkedin.com/in/vidisha-vachharajani-phd-3157a
 This is a space where I will add my current work in **healthcare data analytics**, which will include:
 - Publicly available data files used for the analysis done in this space, e.g. dataset_diabetes
 - R code snippets for readers to easily view and use for quick data analyses, e.g. cleanDiabetic_data.R
-- Quarto and HTML files containing fully developed analytics used in posts for [rworks.dev](https://rworks.dev/), e.g. Healthcare_part1.html
+- Quarto and HTML files containing fully developed analytics used in posts, e.g. [**this post**](https://rworks.dev/posts/healthcare-part1/)
 
