@@ -16,4 +16,6 @@ In the image below, we showcase the conversation had with Copilot, where we star
 
 Where do you think we need to fix the prompts, and how?
 
+**More coming soon ..**
+
 
