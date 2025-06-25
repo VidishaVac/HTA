@@ -6,7 +6,7 @@
 # Run this to read in, clean and pre-process your data first -->
 # https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets/cleanDiabetic_data.R
 # See here for the actual visual you will get after this code -->
-# https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets/polar_diagnosis.png
+# https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets/polar.png
 # --------------------------------------------------------------------------------------------------- #
 
 # --------------------------------------------- #
