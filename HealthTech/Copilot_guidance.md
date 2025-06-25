@@ -11,7 +11,7 @@ Consider this situation where we're interesting in plotting an unusual data stru
 We already used a barplot to visualize this data, and we now want Copilot to recommend a different "type" of plot that will allow for more granular insights. How do we do this?
 
 
-![](convo.png)
+![alt text](convo.png)
 
 
 
