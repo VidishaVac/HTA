@@ -8,9 +8,9 @@ You will find images, R code snippets, PDF's and other tools that will enable yo
 
 ### Additional relevant links
 
-[Tidyverse with GitHub Copilot for Healthcare Analytics – Part 1](https://rworks.dev/posts/healthcare-part1/)
-[UCI ML repo Diabetes dataset](https://github.com/VidishaVac/healthcare-analytics/tree/main/dataset_diabetes)
-[A polar barchart as a presentation-ready visual](https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets/polar_diagnosis.png)
-[R code snippets](https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets)
+- [Tidyverse with GitHub Copilot for Healthcare Analytics – Part 1](https://rworks.dev/posts/healthcare-part1/)
+- [UCI ML repo Diabetes dataset](https://github.com/VidishaVac/healthcare-analytics/tree/main/dataset_diabetes)
+- [A polar barchart as a presentation-ready visual](https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets/polar_diagnosis.png)
+- [R code snippets](https://github.com/VidishaVac/healthcare-analytics/blob/main/R_snippets)
 
 
