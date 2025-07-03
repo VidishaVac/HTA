@@ -270,7 +270,7 @@ ggplot(meds_a1c, aes(x = value, y = medication, fill = pct)) +
 
 As we prepare to explore the impact of the A1c test and the primary diagnosis on patient outcomes like early readmission in the next part, our investigation of the 23 individual medications was revealing. While most medications show no significant difference in prescription rates based on primary diagnosis or A1c testing status, *specific medications do exhibit **notable variations**, as we see above*.
 
-The value of the mosaic plot lies in its ability to provide rapid insights into these kind of care delivery patterns and how they vary based on critical factors that eventually affect patient outcomes.
+It is worth noting here that it was upon *switching to a mosaic plot that these nuanced variations become apparent, more evident*. This is exactly the value of the mosaic plot – its ability to handle a complex data structure (23 medications and their 4-fold values, triangulated over A1c test decisions), take in our inputs (both the aesthetic specifications as well as the suitable color palettes we provided), and excavate rapid insights into these kind of care delivery patterns, not to mention how they vary based on critical factors that eventually affect patient outcomes.
 
 > ***Notes on Copilot:** We asked Copilot to provide a color palette that is designed to be very robust under color vision deficiencies. Though it provided something appropriate, it still did not allow for a clear differentiation of medication usage by diagnosis or A1c. We ended up using `palette.colors`, which enables us to see the variations described above.*
 >
