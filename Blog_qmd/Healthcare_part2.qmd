@@ -50,7 +50,7 @@ library(lattice)
 # --------------------------------------------- #
 # Read in the data
 # --------------------------------------------- #
-D <- read.csv("diabetic_data.csv", sep=",")
+D <- read.csv("https://raw.githubusercontent.com/VidishaVac/healthcare-analytics/refs/heads/main/dataset_diabetes/diabetic_data.csv", sep=",")
 
 # -------------------------------------------------------- #
 # Clean and re-define HbA1c and primary diag
