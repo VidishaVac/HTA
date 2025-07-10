@@ -1,7 +1,7 @@
 # Healthcare Data Analytics with Generative AI in RStudio 
 
 ## Welcome
-Welcome to this space! I recently began exploring GPT-4o mini and GitHub Copilot to help me speed up my data workflows in R, especially within Healthcare Analytics. I am excited to share this work to help readers understand the role of RStudio and AI in Healthcare Analytics!
+Welcome to this space! I recently began exploring GPT-4o mini and GitHub Copilot (see Health Tech below) to help me speed up my data workflows in R, especially within Healthcare Analytics. I am excited to share this work to help readers understand the role of RStudio and AI in Healthcare Analytics!
 
 ## Quick introduction
 This is a space where I will add my current work in **healthcare data analytics**, which will include:
