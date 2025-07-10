@@ -4,18 +4,27 @@
 
 Adding Copilot as a pair programmer to your RStudio is simple, and has a seamless interface. Take a look at Posit's documentation [here](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html).
 
-### Potential pitfalls of an improper prompt
+### Better prompting
 
-Prompt writing is both rewarding and tricky. What we get depends entirely on what we give. 
-Consider this situation where we're interesting in plotting an unusual data structure using the diabetes dataset from UCI ML repo -- the 23 diabetes medications that have 4 levels, _No_, _Steady_, _Up_ and _Down_.
-We already used a barplot to visualize this data, and we now want Copilot to recommend a different "type" of plot that will allow for more granular insights. How do we do this?
+🚧 Prompting Pitfalls: What You Ask Is What You Get
 
-In the image below, we showcase the conversation had with Copilot, where we start with a reshaped data set (`meds`) and we create a bar plot as described above (`p0`) -- see here for where `meds` and `p0` come from. Next, look at this conversation play out. 
+As someone who’s long relied on the wonderful Stack Overflow for both writing and debugging code (and still do), I’ve recently begun experimenting with GitHub Copilot inside RStudio. (Posit PBC GitHub)
+
+It’s powerful and easy to use, but effective prompting often requires fine-tuning.
+
+Here’s a real example from my work with the diabetes dataset from the UCI ML repo:
+
+📂 The data includes 23 medication types, each categorized into one of four levels: 𝘕𝘰, 𝘚𝘵𝘦𝘢𝘥𝘺, 𝘜𝘱, or 𝘋𝘰𝘸𝘯.
+📊 After visualizing all 23 meds using a bar plot, I wanted to explore alternate plot types that could reveal more nuanced insights. I turned to Copilot for help — but what followed was a great lesson in the importance of specificity. 👇
+🖼️ In the image below, you can follow my conversation with Copilot: 
+I began with a vague prompt (“Can you fix this blank plot?”) 
+Then refined it a little (“Can you use a different kind of plot?”) 
+Finally, I gave it the specific guidance it needed (which variables to use and how to specify its aesthetics)
+
+🔍 Only when I provided clear, well-scoped instructions did Copilot return a useful, meaningful visualization.
+
+💡 Takeaway: The quality of your output depends on the quality of your prompt. Copilot is powerful, but only if you guide it with precision.
 
 ![alt text](convo.png)
-
-Where do you think we need to fix the prompts, and how?
-
-**More coming soon ..**
 
 
