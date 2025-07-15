@@ -14,7 +14,7 @@ We [introduced](https://rworks.dev/posts/healthcare-part1/) the use of the AI pa
 
 > ***Setting up Copilot in RStudio:** Adding Copilot as a pair programmer to your RStudio is simple, and has a seamless interface.* *Take a look at the Posit documentation [**here**](https://docs.posit.co/ide/user/ide/guide/tools/copilot.html)***.** *Make sure to enable it! See below.*
 
-![](images/clipboard-2604793550.png){width="538"}
+![](Copilot_start.png){width="538"}
 
 ## 2. Using Copilot to get data summaries
 
